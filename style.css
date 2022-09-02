@@ -398,6 +398,7 @@ a:hover {
 .flex social{
     height: 200px;
 }
+
 /*-------------------------tablette-------------------*/
 @media screen and  (max-width: 992px) {
     .site-navigation {
