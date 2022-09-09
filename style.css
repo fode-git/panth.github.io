@@ -821,13 +821,14 @@ h4 {
 }
 .texte_str{
     font-weight: bold;
-    color: #E8E8E8 !important;
+    color: #000000 !important;
 }
 .texte_sml{
-    color: #E8E8E8 !important;
+    color: #000000 !important;
+    font-size: 14px;
 }
 .bloc_tete_footer{
-    background-color:#3E0868;
+    background-color:#F3976C;
 }
 .bgc-atomic-tangerine {
     background-color: #F8AA87!important; 
@@ -839,9 +840,15 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #eb520c;
-    color: #FFFFFF!important;
+    color: black!important;
 }
-
+.center-block{
+    border-radius: 20px;
+    width: 20%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
 .btn-atomic-tangerine:hover {
     background: #eb520c;
     color: #FFFFFF!important;
